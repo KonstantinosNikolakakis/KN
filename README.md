@@ -1,5 +1,5 @@
 # Predictive-Learning
-Learning efficiently marginal distributions from noisy and noiseless observations. Model: Tree-structured Ising model.
+Efficient learning of marginal distributions from noisy and noiseless observations. Model: Tree-structured Ising model.
 
 Last revision: Dec 2019 (Matlab R2019b) Author: Konstantinos Nikolakakis
 
