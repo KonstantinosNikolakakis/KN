@@ -89,7 +89,6 @@ for q=0:qstep:qmax %cross-over probability, BSC(q)
         % Averaging through 500 independent runs
         [store_mean_ssTV,store_prob] = Monte_Carlo_Iterations(noisy,n,q,runs,p,G,corr_matrix_true,gamma);
         
-        
         mean_sstv(ncounter,qcounter)=sum(store_mean_ssTV); %Update the table of the average errors
         prob(ncounter,qcounter)=sum(store_prob); %Update the table of the error probabilities
         %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
