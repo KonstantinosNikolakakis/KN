@@ -3,7 +3,7 @@ Efficient learning of marginal distributions from noisy and noiseless observatio
 
 Last revision: Dec 2019 (Matlab R2019b) Author: Konstantinos Nikolakakis
 
-The purpose of this code is to support the under review (JMLR) paper: "Predictive Learning on Hidden Tree-Structured Ising Models" by Konstantinos E. Nikolakakis, Dionysios S. Kalogerias, Anand D. Sarwate.
+The purpose of this code is to support the (JMLR) paper: "Predictive Learning on Hidden Tree-Structured Ising Models" by Konstantinos E. Nikolakakis, Dionysios S. Kalogerias, Anand D. Sarwate.
 
 Any part of this code used in your work should cite the above publication.
 This code is provided "as is" to support the ideals of reproducible research. Any issues with this code should be reported by email to k.nikolakakis@rutgers.edu. 
